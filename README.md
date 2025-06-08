@@ -2,7 +2,7 @@
 
 ### AI Enthusiast | CSE Sophomore | Space & Gaming Enthusiast  
 
-Constantly pushing boundaries in **Artificial Intelligence, Machine Learning, and Automation**. I live for tech, gaming, automobiles, and exploring futuristic innovations.  
+Constantly pushing boundaries in **Artificial Intelligence, Machine Learning, and Automation**.  
 
 🔹 **Coding in:** C, Java, Python  
 🔹 **Automating with:**  Generative AI  
