@@ -1,4 +1,4 @@
-# 💻 Hey, I'm Bavish!👨‍💻  
+#  Hey, I'm Bavish!👨‍💻  
 
 ### AI Enthusiast | CSE Sophomore | Space & Gaming Enthusiast  
 
